@@ -1,0 +1,6 @@
+eriko,124,Cardona,erik,Valencia;
+asdf,asdf,asdf,eriko,asdf;
+asdf,asdf,asdf,eriko,asdf;
+asdf,asdf,asdf,eriko,asdf;
+asdf,asdf,asdf,eriko,asdf;
+adsf,asdf,asdf,asdf,asdf;
